@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jakkrapan Patan
 =======================================================================================================================================
 
-I'm a third-year student at KMUTT University, experienced in games and web apps, now I'm most interested and focusing on cybersecurity and software engineering and eager to learn further.
+I'm a fourth-year student at KMUTT University, experienced in games and web apps, now I'm most interested and focusing on cybersecurity and software engineering and eager to learn further.
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [jakkrapan.p@mail.kmutt.ac.th](mailto:jakkrapan.p@mail.kmutt.ac.th)
